@@ -1,7 +1,7 @@
 # ChimpLocomotion
 Revised and edited Gorilla Tag locomotion
 
-All Credit goes to [Kerestell Smith]([url](https://github.com/Kerestell?tab=overview&from=2021-12-01&to=2021-12-31)) for the original [GorillaLocomotion]([url](https://github.com/Another-Axiom/GorillaLocomotion))
+All Credit goes to [Kerestell Smith](https://github.com/Kerestell?tab=overview&from=2021-12-01&to=2021-12-31) for the original [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion)
 ```
 MIT License
 
